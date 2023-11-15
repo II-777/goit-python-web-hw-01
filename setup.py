@@ -14,4 +14,7 @@ setup(name='infinity',
       include_package_data=True,
       packages=find_namespace_packages(),
       entry_points={'console_scripts': ['infinity = infinity.main:main']},
-      install_requires=[])
+      install_requires=[
+              'rich==13.7.0',
+      ]
+      )
