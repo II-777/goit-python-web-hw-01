@@ -8,7 +8,7 @@ Photo by [Izabel](https://unsplash.com/@peacelily234?utm_source=unsplash&utm_med
 
 ## Table of Contents
 - [Usage](#commands)
-- [Examples](#examples)
+- [Documentation](#documentation)
 - [Installation](#installation)
 - [License](#license)
 
@@ -26,9 +26,9 @@ Photo by [Izabel](https://unsplash.com/@peacelily234?utm_source=unsplash&utm_med
 | show all records | Show all records                                |
 | note             | Enable notetaking mode (use help for more info) |
 
-## Examples
+## Documentation
 
-For more details and examples, please refer to the [documentation](https://github.com/II-777/goit-python-web-hw-01/tree/main/documentation).
+For more information, please refer to the [documentation](https://github.com/II-777/goit-python-web-hw-01/tree/main/documentation).
 
 ## Installation
 

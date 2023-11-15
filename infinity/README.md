@@ -2,13 +2,13 @@
 
 Welcome to the Python CLI Assistant! This command-line program helps you manage your contact book, notes, and more with simple and intuitive commands.
 
-![Logo](https://github.com/Dishalex/Infinity/blob/dev/Documentation/logo.jpg)
+![Logo](https://github.com/II-777/goit-python-web-hw-01/blob/main/documentation/logo.jpg)
 
 Photo by [Izabel](https://unsplash.com/@peacelily234?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText")
 
 ## Table of Contents
 - [Usage](#commands)
-- [Examples](#examples)
+- [Documentation](#documentation)
 - [Installation](#installation)
 - [License](#license)
 
@@ -26,9 +26,9 @@ Photo by [Izabel](https://unsplash.com/@peacelily234?utm_source=unsplash&utm_med
 | show all records | Show all records                                |
 | note             | Enable notetaking mode (use help for more info) |
 
-## Examples
+## Documentation
 
-For more details and examples, please refer to the [documentation](./documentation/).
+For more information, please refer to the [documentation](https://github.com/II-777/goit-python-web-hw-01/tree/main/documentation).
 
 ## Installation
 
