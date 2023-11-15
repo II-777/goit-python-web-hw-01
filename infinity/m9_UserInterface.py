@@ -18,7 +18,7 @@ class UserInterface(ABC):
         pass
 
 
-class ConsoleUserInterface:
+class ConsoleUserInterface(UserInterface):
     def show_contacts(self, bot):
         table = Table(box=box.SIMPLE_HEAD)
 
