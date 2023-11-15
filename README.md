@@ -28,7 +28,7 @@ Photo by [Izabel](https://unsplash.com/@peacelily234?utm_source=unsplash&utm_med
 
 ## Examples
 
-For more details and examples, please refer to the [documentation](./Documentation/).
+For more details and examples, please refer to the [documentation](./documentation/).
 
 ## Installation
 
