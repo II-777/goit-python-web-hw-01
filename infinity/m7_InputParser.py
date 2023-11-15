@@ -23,7 +23,6 @@ class InputParser:
 
         if not user_input:
             print('[-] Unrecognized command. Try "help".')
-            # return None, None, None, None, None, None, None, None, None
             return {}
 
         user_input_lower = user_input.lower()
@@ -35,7 +34,6 @@ class InputParser:
                 break
         else:
             print('[-] Unrecognized command. Try "help".')
-            # return None, None, None, None, None, None, None, None, None
             return {}
 
         arguments = shlex.split(rest_of_string)

@@ -15,7 +15,6 @@ class AddressBook(UserDict):
 
     def show_record(self, name):
         if name in self.data:
-            print(repr(self.data[name]))
             return repr(self.data[name])
         else:
             return None

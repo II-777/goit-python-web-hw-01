@@ -70,7 +70,6 @@ class AddRecord(Command):
 
     def execute(self, bot, parsed_data):
         if parsed_data['name']:
-            # Check if the name already exists in the AddressBook
             if parsed_data['name'] in bot.address_book.data:
                 print('[-] Record not added: Name already exists.')
             else:
@@ -113,7 +112,6 @@ class UpdateRecord(Command):
             record.update_tags = parsed_data['tags']
 
     def execute(self, bot, parsed_data):
-        print(parsed_data)
         name = parsed_data.get('name')
         record = bot.address_book.data.get(name)
 
