@@ -2,7 +2,7 @@
 
 Welcome to the Python CLI Assistant! This command-line program helps you manage your contact book, notes, and more with simple and intuitive commands.
 
-![Logo](https://github.com/II-777/infinity/blob/dev/documentation/logo.jpg)
+![Logo](https://github.com/II-777/goit-python-web-hw-01/blob/main/documentation/logo.jpg)
 
 Photo by [Izabel](https://unsplash.com/@peacelily234?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText")
 
